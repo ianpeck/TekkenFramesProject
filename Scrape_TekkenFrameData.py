@@ -73,11 +73,3 @@ for fighter in fighter_linkparts:
 headings.append('Character')
 df.columns = headings
 df.to_csv('/Users/ianjpeck/Documents/tekken.csv', index = False)
-
-
-
-
-
-
-
-
