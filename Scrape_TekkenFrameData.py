@@ -75,8 +75,6 @@ df.columns = headings
 df.to_csv('/Users/ianjpeck/Documents/tekken.csv', index = False)
 
 
-# remove extra characters in frames and average them
-# how to create dict from list and list of lists
 
 
 
